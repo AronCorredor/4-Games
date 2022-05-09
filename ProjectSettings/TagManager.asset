@@ -8,6 +8,8 @@ TagManager:
   - Checkpoint
   - Ambiente
   - Pajaro
+  - Bala
+  - Bola
   layers:
   - Default
   - TransparentFX

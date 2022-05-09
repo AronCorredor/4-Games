@@ -64,13 +64,16 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scripts\ObstaculoPajaro.cs" />
-    <Compile Include="Assets\Scripts\PajaroAmbiente.cs" />
-    <Compile Include="Assets\Scripts\PajaroCollision.cs" />
-    <Compile Include="Assets\Scripts\PajaroMovimiento.cs" />
-    <Compile Include="Assets\Scripts\PajaroObstaculo1.cs" />
-    <Compile Include="Assets\Scripts\PajaroSalto.cs" />
-    <Compile Include="Assets\Scripts\SimpleCameraController.cs" />
+    <Compile Include="Assets\Scripts\Scripts Game1\ObstaculoPajaro.cs" />
+    <Compile Include="Assets\Scripts\Scripts Game1\PajaroAmbiente.cs" />
+    <Compile Include="Assets\Scripts\Scripts Game1\PajaroCollision.cs" />
+    <Compile Include="Assets\Scripts\Scripts Game1\PajaroMovimiento.cs" />
+    <Compile Include="Assets\Scripts\Scripts Game1\PajaroObstaculo1.cs" />
+    <Compile Include="Assets\Scripts\Scripts Game1\PajaroSalto.cs" />
+    <Compile Include="Assets\Scripts\Scripts Game1\SimpleCameraController.cs" />
+    <Compile Include="Assets\Scripts\Scripts Game2\BolaRotador.cs" />
+    <Compile Include="Assets\Scripts\Scripts Game2\ColisionCubo.cs" />
+    <Compile Include="Assets\Scripts\Scripts Game2\DisparaCubo.cs" />
     <Compile Include="Assets\TutorialInfo\Scripts\Readme.cs" />
     <Reference Include="UnityEngine">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.4.12f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
